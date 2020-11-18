@@ -1,1 +1,2 @@
-# Class21-with-Kushal
+# collisionAlgorithm
+Algorithm to detect collision between two objects
